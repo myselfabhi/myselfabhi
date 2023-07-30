@@ -1,4 +1,4 @@
-Hello people 👋 I'm Abhinav Verma
+Hello people 👋 I'm Abhinav Verma <br>
 Turning Code into Creativity 👨🏻‍💻
 "Crafting captivating digital experiences through code - that's the power of a frontend web developer."
 
