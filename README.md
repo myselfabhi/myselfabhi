@@ -4,7 +4,7 @@ Turning Code into Creativity 👨🏻‍💻 <br>
 
 📄 I am a final year undergrad at Maharaja Agrasen Institute of Technology, Delhi, India. I am pursuing B.Tech in Computer Science.
     
-🌱 I’m currently working on JavaScript & learning Python 🐍
+🌱 I’m currently working on AngularJS & learning Python 🐍
 
 👨‍💻 All of my projects are listed <a href="https://github.com/myselfabhi?tab=repositories">here.</a>
 
