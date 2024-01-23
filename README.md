@@ -1,5 +1,5 @@
 Hello people 👋 I'm Abhinav Verma. <br>
-Turning Code into Creativity 👨🏻‍💻 <br>
+Turning Code into Creativity. 👨🏻‍💻 <br>
 "Crafting captivating digital experiences through code - that's the power of a frontend web developer."
 
 📄 I am a final year undergrad at Maharaja Agrasen Institute of Technology, Delhi, India. I am pursuing B.Tech in Computer Science.
