@@ -8,7 +8,7 @@ Turning Code into Creativity. 👨🏻‍💻 <br>
 
 👨‍💻 All of my projects are listed <a href="https://github.com/myselfabhi?tab=repositories">here.</a>
 
-📄 You can also check out my portfolio at <a href="https://abhinavvermaportfolio.netlify.app/">here</a>
+📄 You can also check out my portfolio at <a href="https://abhinavvermaportfolio.netlify.app/">here.</a>
 
 📫 Reach out to me at <a href="https://www.linkedin.com/in/abhinav-verma-2b2303203/">LinkedIn</a>
 
