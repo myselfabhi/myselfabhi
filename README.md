@@ -7,7 +7,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./banner.jpg" />
   
 </div>
 
