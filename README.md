@@ -2,6 +2,8 @@
 Turning Code into Creativity. 👨🏻‍💻 <br>
 "Crafting captivating digital experiences through code - that's the power of a frontend web developer."
 
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
 📄 I am a final year undergrad at Maharaja Agrasen Institute of Technology, Delhi, India. I am pursuing B.Tech in Computer Science.
     
 🌱 I’m currently working on ReactJS & learning Python for DSA!! 🐍
