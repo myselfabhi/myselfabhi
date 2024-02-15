@@ -15,8 +15,6 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
 - 🙋‍♂️ All about me is at **[My Website](https://abhinavvermaportfolio.vercel.app/)**
 
 - 👨🏻‍💻 Turning Code into Creativity. 
