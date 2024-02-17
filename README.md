@@ -51,7 +51,7 @@ Here are some ideas to get you started: -->
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 </p>
 
-## ❤️ Let's get connected:
+## ❤️ Let's get connected:-
 
 <p><a href="https://twitter.com/_myselfabhi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> 
     <a href="https://www.linkedin.com/in/abhinav-verma-2b2303203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
