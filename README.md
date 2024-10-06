@@ -2,7 +2,6 @@
 <h1 align="center">Hello I'm Abhinav Verma👋 a Web enthusiast 🚀</h1>
 <h3 align="center">Turning Code into Creativity 🌐✨</h3>
 
-## 👨🏻‍💻 About Me:
 
 - 🙋‍♂️ All about me is at **[My Website](https://abhinavvermaportfolio.vercel.app/)**
 
