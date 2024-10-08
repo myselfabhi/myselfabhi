@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
 
 
-- 🔭 I’m currently working as a **Software Developer**
+- 🔭 I’m currently working as a **Frontend Developer**
 
 - 🌱 I’m always eager to **learn** new things
 
