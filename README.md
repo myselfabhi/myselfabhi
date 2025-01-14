@@ -12,7 +12,7 @@
 
 - 📄 Know about me [My Resume](https://drive.google.com/file/d/1y_PGd8spY9CrAsK0mu8VpTHk1SR_ttDS/view?usp=sharing)
 
-- 💬 I’m always up for a **tech talk**!
+- 💬 I’m always up for a **tech talk**
 
 - 📫 How to reach me **abhinavverma2024@gmail.com**
 
