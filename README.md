@@ -20,19 +20,6 @@ Currently expanding deeper into **backend systems, system design, and DevOps (Do
 
 ---
 
-## 💼 Experience
-
-- **Network People Services Technologies Ltd.** — Associate Developer  
-  _Building and maintaining large-scale enterprise web platforms using Angular and React._
-
-- **Freelance Frontend / Full Stack Developer**  
-  _Delivered production-ready products including EP E-Auction Platform, EdTech dashboards, and SaaS interfaces._
-
-- **Patent Ninja** — Founding Engineer (Frontend)  
-  _Led frontend development for a product-focused startup, owning core workflows and UX._
-
----
-
 ## 🛠 Tech Stack
 
 **React, Angular, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Redux, Node.js, Firebase, MongoDB, MySQL, REST APIs, Swagger, WebSockets, Git, GitHub, Postman, Jest, Docker (learning)**
@@ -49,12 +36,25 @@ Currently expanding deeper into **backend systems, system design, and DevOps (Do
 
 ---
 
+## 💼 Experience
+
+- **Network People Services Technologies Ltd.** — Associate Developer  
+  _Building and maintaining large-scale enterprise web platforms using Angular and React._
+
+- **Freelance Frontend / Full Stack Developer**  
+  _Delivered production-ready products including EP E-Auction Platform, EdTech dashboards, and SaaS interfaces._
+
+- **Patent Ninja** — Founding Engineer (Frontend)  
+  _Led frontend development for a product-focused startup, owning core workflows and UX._
+
+
+---
+
 ## 📄 Resume & Portfolio
 
-- 📑 Resume (2025):  
-  https://drive.google.com/file/d/1AMz0QLvoDz_3i9uupdPR31seGsHPPdhr/view
-- 🌐 Portfolio:  
-  https://myselfabhi.vercel.app
+- 📑 **Resume (2025)**: [View & Download](https://drive.google.com/file/d/1AMz0QLvoDz_3i9uupdPR31seGsHPPdhr/view)
+- 🌐 **Portfolio**: [myselfabhi.vercel.app](https://myselfabhi.vercel.app)
+
 
 ---
 
