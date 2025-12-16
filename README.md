@@ -49,24 +49,6 @@ Currently expanding deeper into **backend systems, system design, and DevOps (Do
 
 ---
 
-## 🚀 Selected Projects
-
-### 🎓 Effort Education  
-**EdTech Startup | Full Stack**
-
-- Built a **dashboard-driven learning platform** using **Next.js**
-- Designed structured user flows for content access and progress tracking
-- Focused on usability, clarity, and scalable UI architecture
-
----
-
-### 🌌 Venture Universe _(In Development)_
-
-- Space and astronomy platform featuring **interactive 3D visuals (Three.js)**
-- Community-focused design with modern frontend architecture
-
----
-
 ## 📄 Resume & Portfolio
 
 - 📑 Resume (2025):  
@@ -91,31 +73,3 @@ Currently expanding deeper into **backend systems, system design, and DevOps (Do
 </p>
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=myselfabhi&show_icons=true&hide_title=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=myselfabhi&show_icons=true&hide_title=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=myselfabhi&show_icons=true&hide_title=true" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=myselfabhi&theme=github-dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=myselfabhi&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfabhi" />
-  </picture>
-</p>
