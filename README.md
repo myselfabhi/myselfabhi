@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About
 
-Frontend / Full Stack Developer with **2+ years of professional experience**, working across **startups, enterprise platforms, and freelance projects**.
+Frontend/Full Stack Developer with **2+ years of professional experience**, working across **startups, enterprise platforms, and freelance projects**.
 
 I focus on **clean user flows, maintainable UI systems, and end-to-end feature ownership**. I approach development with a **product mindset**, often thinking through features from a user and business perspective, similar to how a product manager would.
 
