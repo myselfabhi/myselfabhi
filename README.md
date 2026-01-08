@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About.
+## 👨‍💻 About
 
 Frontend/Full Stack Developer with **2+ years of professional experience**, working across **startups, enterprise platforms, and freelance projects**.
 
