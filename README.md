@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  I build thoughtful, scalable web products with strong ownership over user flows, UI clarity, and overall product experience.
+  I build thoughtful, scalable web products with strong ownership over user flows, UI clarity, and overall product experience
 </p>
 
 ---
