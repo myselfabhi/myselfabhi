@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <p align="center">
-  <img src="github-banner.png" alt="Abhinav Verma | Web Developer" />
+  <img src="github-banner.jpg" alt="Abhinav Verma | Web Developer" />
 </p>
 
 <p align="center">
