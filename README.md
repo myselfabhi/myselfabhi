@@ -9,7 +9,6 @@
   turning ideas into web experiences
 </p>
 
----
 
 ## 🚀 What I Do
 
@@ -22,7 +21,6 @@ I care deeply about:
 
 With **2+ years of experience**, I’ve shipped features across **fintech platforms, startups, and freelance products**, owning things end-to-end — from UI decisions to final delivery.
 
----
 
 ## 🧠 How I Think
 
@@ -31,7 +29,6 @@ With **2+ years of experience**, I’ve shipped features across **fintech platfo
 - Simplicity beats cleverness  
 - Product impact > lines of code  
 
----
 
 ## 🛠 Tools I Build With
 
@@ -39,7 +36,6 @@ With **2+ years of experience**, I’ve shipped features across **fintech platfo
 **Node.js · Firebase · MongoDB · REST APIs · WebSockets**  
 **Tailwind CSS · Redux · Git · Docker (learning)**
 
----
 
 ## 🌍 Where I’ve Applied This
 
@@ -48,7 +44,6 @@ With **2+ years of experience**, I’ve shipped features across **fintech platfo
 - Real-world **client & freelance builds**
 - Developer tools & personal experiments
 
----
 
 ## 🔗 Find Me Elsewhere
 
