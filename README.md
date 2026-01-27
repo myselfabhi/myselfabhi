@@ -4,22 +4,36 @@
 </p>
 
 <p align="center">
-  <strong>Web Developer</strong> · Turning ideas into web experiences
+  <strong>Web Developer</strong>  
+  <br />
+  turning ideas into web experiences
 </p>
 
 ---
 
-## 👋 About
+## 🚀 What I Do
 
-I build **scalable, user-focused web products** with strong ownership over **UI clarity, user flows, and end-to-end features**.
+I turn **ideas, sketches, and rough concepts** into **clean, scalable web products**.
 
-With **2+ years of professional experience**, I’ve worked across **fintech platforms, product startups, and freelance projects**, focusing on building things that are simple to use and easy to maintain.
+I care deeply about:
+- how users move through a product  
+- how interfaces feel, not just how they look  
+- building systems that don’t fight back six months later  
 
-I approach development with a **product mindset** — thinking beyond code into user needs, edge cases, and long-term impact.
+With **2+ years of experience**, I’ve shipped features across **fintech platforms, startups, and freelance products**, owning things end-to-end — from UI decisions to final delivery.
 
 ---
 
-## 🛠 Tech
+## 🧠 How I Think
+
+- UI is a **conversation**, not a screen  
+- Good code disappears behind a good experience  
+- Simplicity beats cleverness  
+- Product impact > lines of code  
+
+---
+
+## 🛠 Tools I Build With
 
 **React · Angular · Next.js · TypeScript · JavaScript**  
 **Node.js · Firebase · MongoDB · REST APIs · WebSockets**  
@@ -27,31 +41,19 @@ I approach development with a **product mindset** — thinking beyond code into 
 
 ---
 
-## 🧩 How I Work
+## 🌍 Where I’ve Applied This
 
-- Own features **end-to-end**
-- Focus on **clear user flows & clean UI**
-- Prefer **simple, maintainable systems**
-- Comfortable with **remote & async collaboration**
-
----
-
-## 💼 Experience Highlights
-
-- Built and maintained **enterprise-scale web platforms** (fintech, dashboards, portals)
-- Shipped **production-ready products** for startups and clients
-- Led frontend development for **product-focused teams**, owning core workflows
+- Enterprise-scale **fintech dashboards & portals**
+- Product-first **startup interfaces**
+- Real-world **client & freelance builds**
+- Developer tools & personal experiments
 
 ---
 
-## 🌐 Links
+## 🔗 Find Me Elsewhere
 
 - 🌐 Portfolio: https://myselfabhi.vercel.app  
 - 📄 Resume: https://drive.google.com/file/d/1AMz0QLvoDz_3i9uupdPR31seGsHPPdhr/view  
-
----
-
-## 🔗 Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhinav-verma-2b2303203/" target="_blank">
