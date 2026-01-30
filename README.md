@@ -6,7 +6,7 @@
 <p align="center">
   <strong>Web Developer</strong>  
   <br />
-  turning ideas into web experiences
+  turning ideas into web experiences.
 </p>
 
 
