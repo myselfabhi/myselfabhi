@@ -38,4 +38,4 @@ Each name opens its case study.
 
 ## Elsewhere
 
-[Portfolio](https://myselfabhi.dev) · [LinkedIn](https://www.linkedin.com/in/abhinav-verma-2b2303203/) · [X](https://twitter.com/_myselfabhi) · [Instagram](https://www.instagram.com/_myselfabhi/) · [Email](mailto:myselfabhi.dev@gmail.com) · [Resume](https://drive.google.com/file/d/1AMz0QLvoDz_3i9uupdPR31seGsHPPdhr/view)
+[Portfolio](https://myselfabhi.dev) · [LinkedIn](https://www.linkedin.com/in/abhinav-verma-2b2303203/) · [X](https://twitter.com/_myselfabhi) · [Instagram](https://www.instagram.com/_myselfabhi/) · [Email](mailto:myselfabhi.dev@gmail.com) · [Resume](https://myselfabhi.dev/resume.pdf)
